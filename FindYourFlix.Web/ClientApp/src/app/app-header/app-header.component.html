@@ -1,0 +1,11 @@
+﻿<div class="header">
+  <div class="tabs">
+    <a (click)="navigate(urls.movies())">Movies</a>
+    <a (click)="navigate(urls.profile())">Profile</a>
+  </div>
+  <search-bar></search-bar>
+  <div class="log-out">
+    <button type="button" (click)="logOut()">Log out</button>
+    <fa-icon [icon]="logOutIcon"></fa-icon>
+  </div>
+</div>

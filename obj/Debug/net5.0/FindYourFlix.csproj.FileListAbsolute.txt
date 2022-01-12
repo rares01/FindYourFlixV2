@@ -1,0 +1,315 @@
+D:\Facultate - An 3\FindYourFlix\FindYourFlix\bin\Debug\net5.0\appsettings.Development.json
+D:\Facultate - An 3\FindYourFlix\FindYourFlix\bin\Debug\net5.0\appsettings.json
+D:\Facultate - An 3\FindYourFlix\FindYourFlix\bin\Debug\net5.0\FindYourFlix.exe
+D:\Facultate - An 3\FindYourFlix\FindYourFlix\bin\Debug\net5.0\FindYourFlix.deps.json
+D:\Facultate - An 3\FindYourFlix\FindYourFlix\bin\Debug\net5.0\FindYourFlix.runtimeconfig.json
+D:\Facultate - An 3\FindYourFlix\FindYourFlix\bin\Debug\net5.0\FindYourFlix.runtimeconfig.dev.json
+D:\Facultate - An 3\FindYourFlix\FindYourFlix\bin\Debug\net5.0\FindYourFlix.dll
+D:\Facultate - An 3\FindYourFlix\FindYourFlix\bin\Debug\net5.0\ref\FindYourFlix.dll
+D:\Facultate - An 3\FindYourFlix\FindYourFlix\bin\Debug\net5.0\FindYourFlix.pdb
+D:\Facultate - An 3\FindYourFlix\FindYourFlix\bin\Debug\net5.0\FindYourFlix.Views.dll
+D:\Facultate - An 3\FindYourFlix\FindYourFlix\obj\Debug\net5.0\FindYourFlix.csproj.AssemblyReference.cache
+D:\Facultate - An 3\FindYourFlix\FindYourFlix\obj\Debug\net5.0\FindYourFlix.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultate - An 3\FindYourFlix\FindYourFlix\obj\Debug\net5.0\FindYourFlix.AssemblyInfoInputs.cache
+D:\Facultate - An 3\FindYourFlix\FindYourFlix\obj\Debug\net5.0\FindYourFlix.AssemblyInfo.cs
+D:\Facultate - An 3\FindYourFlix\FindYourFlix\obj\Debug\net5.0\FindYourFlix.csproj.CoreCompileInputs.cache
+D:\Facultate - An 3\FindYourFlix\FindYourFlix\obj\Debug\net5.0\FindYourFlix.MvcApplicationPartsAssemblyInfo.cache
+D:\Facultate - An 3\FindYourFlix\FindYourFlix\obj\Debug\net5.0\staticwebassets\FindYourFlix.StaticWebAssets.Manifest.cache
+D:\Facultate - An 3\FindYourFlix\FindYourFlix\obj\Debug\net5.0\staticwebassets\FindYourFlix.StaticWebAssets.xml
+D:\Facultate - An 3\FindYourFlix\FindYourFlix\obj\Debug\net5.0\scopedcss\bundle\FindYourFlix.styles.css
+D:\Facultate - An 3\FindYourFlix\FindYourFlix\obj\Debug\net5.0\FindYourFlix.RazorTargetAssemblyInfo.cache
+D:\Facultate - An 3\FindYourFlix\FindYourFlix\obj\Debug\net5.0\FindYourFlix.dll
+D:\Facultate - An 3\FindYourFlix\FindYourFlix\obj\Debug\net5.0\ref\FindYourFlix.dll
+D:\Facultate - An 3\FindYourFlix\FindYourFlix\obj\Debug\net5.0\FindYourFlix.pdb
+D:\Facultate - An 3\FindYourFlix\FindYourFlix\obj\Debug\net5.0\FindYourFlix.genruntimeconfig.cache
+D:\Facultate - An 3\FindYourFlix\FindYourFlix\obj\Debug\net5.0\FindYourFlix.csproj.CopyComplete
+D:\Facultate - An 3\FindYourFlix\FindYourFlix\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Facultate - An 3\FindYourFlix\FindYourFlix\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Facultate - An 3\FindYourFlix\FindYourFlix\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Facultate - An 3\FindYourFlix\FindYourFlix\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Facultate - An 3\FindYourFlix\FindYourFlix\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Facultate - An 3\FindYourFlix\FindYourFlix\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Facultate - An 3\FindYourFlix\FindYourFlix\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Facultate - An 3\FindYourFlix\FindYourFlix\obj\Debug\net5.0\FindYourFlix.MvcApplicationPartsAssemblyInfo.cs
+D:\Facultate - An 3\FindYourFlix\FindYourFlix\bin\Debug\net5.0\Humanizer.dll
+D:\Facultate - An 3\FindYourFlix\FindYourFlix\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Facultate - An 3\FindYourFlix\FindYourFlix\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Facultate - An 3\FindYourFlix\FindYourFlix\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Facultate - An 3\FindYourFlix\FindYourFlix\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Facultate - An 3\FindYourFlix\FindYourFlix\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Facultate - An 3\FindYourFlix\FindYourFlix\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Facultate - An 3\FindYourFlix\FindYourFlix\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Facultate - An 3\FindYourFlix\FindYourFlix\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Facultate - An 3\FindYourFlix\FindYourFlix\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Facultate - An 3\FindYourFlix\FindYourFlix\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Facultate - An 3\FindYourFlix\FindYourFlix\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Facultate - An 3\FindYourFlix\FindYourFlix\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Facultate - An 3\FindYourFlix\FindYourFlix\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Facultate - An 3\FindYourFlix\FindYourFlix\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Facultate - An 3\FindYourFlix\FindYourFlix\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Facultate - An 3\FindYourFlix\FindYourFlix\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Facultate - An 3\FindYourFlix\FindYourFlix\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Facultate - An 3\FindYourFlix\FindYourFlix\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Facultate - An 3\FindYourFlix\FindYourFlix\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Facultate - An 3\FindYourFlix\FindYourFlix\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Facultate - An 3\FindYourFlix\FindYourFlix\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Facultate - An 3\FindYourFlix\FindYourFlix\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Facultate - An 3\FindYourFlix\FindYourFlix\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Facultate - An 3\FindYourFlix\FindYourFlix\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Facultate - An 3\FindYourFlix\FindYourFlix\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Facultate - An 3\FindYourFlix\FindYourFlix\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Facultate - An 3\FindYourFlix\FindYourFlix\bin\Debug\net5.0\Microsoft.AspNetCore.SpaServices.Extensions.dll
+D:\Facultate - An 3\FindYourFlix\FindYourFlix\bin\Debug\net5.0\System.Web.Cors.dll
+D:\Facultate - An 3\FindYourFlix\FindYourFlix\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+D:\Facultate - An 3\FindYourFlix\FindYourFlix\bin\Debug\net5.0\System.Web.Http.dll
+D:\Facultate - An 3\FindYourFlix\FindYourFlix\bin\Debug\net5.0\System.Web.Http.Cors.dll
+D:\Facultate - An 3\FindYourFlix\FindYourFlix\bin\Debug\net5.0\BCrypt.Net-Next.dll
+D:\Facultate - An 3\FindYourFlix\FindYourFlix\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+D:\Facultate - An 3\FindYourFlix\FindYourFlix\bin\Debug\net5.0\EntityFramework.dll
+D:\Facultate - An 3\FindYourFlix\FindYourFlix\bin\Debug\net5.0\Microsoft.AspNet.Identity.Core.dll
+D:\Facultate - An 3\FindYourFlix\FindYourFlix\bin\Debug\net5.0\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Facultate - An 3\FindYourFlix\FindYourFlix\bin\Debug\net5.0\Microsoft.AspNet.Identity.Owin.dll
+D:\Facultate - An 3\FindYourFlix\FindYourFlix\bin\Debug\net5.0\Microsoft.Owin.dll
+D:\Facultate - An 3\FindYourFlix\FindYourFlix\bin\Debug\net5.0\Microsoft.Owin.Cors.dll
+D:\Facultate - An 3\FindYourFlix\FindYourFlix\bin\Debug\net5.0\Microsoft.Owin.Host.SystemWeb.dll
+D:\Facultate - An 3\FindYourFlix\FindYourFlix\bin\Debug\net5.0\Microsoft.Owin.Security.dll
+D:\Facultate - An 3\FindYourFlix\FindYourFlix\bin\Debug\net5.0\Microsoft.Owin.Security.Cookies.dll
+D:\Facultate - An 3\FindYourFlix\FindYourFlix\bin\Debug\net5.0\Microsoft.Owin.Security.OAuth.dll
+D:\Facultate - An 3\FindYourFlix\FindYourFlix\bin\Debug\net5.0\Owin.dll
+C:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix\bin\Debug\net5.0\appsettings.json
+C:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix\bin\Debug\net5.0\FindYourFlix.StaticWebAssets.xml
+C:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix\bin\Debug\net5.0\FindYourFlix.exe
+C:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix\bin\Debug\net5.0\FindYourFlix.deps.json
+C:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix\bin\Debug\net5.0\FindYourFlix.runtimeconfig.json
+C:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix\bin\Debug\net5.0\FindYourFlix.runtimeconfig.dev.json
+C:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix\bin\Debug\net5.0\FindYourFlix.dll
+C:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix\bin\Debug\net5.0\ref\FindYourFlix.dll
+C:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix\bin\Debug\net5.0\FindYourFlix.pdb
+C:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix\bin\Debug\net5.0\FindYourFlix.Views.dll
+C:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix\bin\Debug\net5.0\BCrypt.Net-Next.dll
+C:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+C:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix\bin\Debug\net5.0\EntityFramework.dll
+C:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix\bin\Debug\net5.0\Humanizer.dll
+C:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix\bin\Debug\net5.0\System.Web.Cors.dll
+C:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix\bin\Debug\net5.0\Microsoft.AspNet.Identity.Core.dll
+C:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix\bin\Debug\net5.0\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix\bin\Debug\net5.0\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+C:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix\bin\Debug\net5.0\System.Web.Http.dll
+C:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix\bin\Debug\net5.0\System.Web.Http.Cors.dll
+C:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix\bin\Debug\net5.0\Microsoft.AspNetCore.SpaServices.Extensions.dll
+C:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix\bin\Debug\net5.0\Microsoft.Owin.dll
+C:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix\bin\Debug\net5.0\Microsoft.Owin.Cors.dll
+C:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix\bin\Debug\net5.0\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix\bin\Debug\net5.0\Microsoft.Owin.Security.dll
+C:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix\bin\Debug\net5.0\Microsoft.Owin.Security.Cookies.dll
+C:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix\bin\Debug\net5.0\Microsoft.Owin.Security.OAuth.dll
+C:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix\bin\Debug\net5.0\Owin.dll
+C:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix\obj\Debug\net5.0\FindYourFlix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix\obj\Debug\net5.0\FindYourFlix.AssemblyInfoInputs.cache
+C:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix\obj\Debug\net5.0\FindYourFlix.AssemblyInfo.cs
+C:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix\obj\Debug\net5.0\FindYourFlix.csproj.CoreCompileInputs.cache
+C:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix\obj\Debug\net5.0\FindYourFlix.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix\obj\Debug\net5.0\FindYourFlix.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix\obj\Debug\net5.0\scopedcss\bundle\FindYourFlix.styles.css
+C:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix\obj\Debug\net5.0\staticwebassets\FindYourFlix.StaticWebAssets.Manifest.cache
+C:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix\obj\Debug\net5.0\FindYourFlix.RazorTargetAssemblyInfo.cache
+C:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix\obj\Debug\net5.0\FindYourFlix.csproj.CopyComplete
+C:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix\obj\Debug\net5.0\FindYourFlix.dll
+C:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix\obj\Debug\net5.0\ref\FindYourFlix.dll
+C:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix\obj\Debug\net5.0\FindYourFlix.pdb
+C:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix\obj\Debug\net5.0\FindYourFlix.genruntimeconfig.cache
+C:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix\obj\Debug\net5.0\FindYourFlix.csproj.AssemblyReference.cache
+C:\Users\folariu\Downloads\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\folariu\Downloads\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\appsettings.json
+C:\Users\folariu\Downloads\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\FindYourFlix.StaticWebAssets.xml
+C:\Users\folariu\Downloads\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\FindYourFlix.exe
+C:\Users\folariu\Downloads\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\FindYourFlix.deps.json
+C:\Users\folariu\Downloads\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\FindYourFlix.runtimeconfig.json
+C:\Users\folariu\Downloads\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\FindYourFlix.runtimeconfig.dev.json
+C:\Users\folariu\Downloads\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\FindYourFlix.dll
+C:\Users\folariu\Downloads\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\ref\FindYourFlix.dll
+C:\Users\folariu\Downloads\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\FindYourFlix.pdb
+C:\Users\folariu\Downloads\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\FindYourFlix.Views.dll
+C:\Users\folariu\Downloads\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\BCrypt.Net-Next.dll
+C:\Users\folariu\Downloads\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+C:\Users\folariu\Downloads\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\EntityFramework.dll
+C:\Users\folariu\Downloads\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\Humanizer.dll
+C:\Users\folariu\Downloads\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\System.Web.Cors.dll
+C:\Users\folariu\Downloads\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\Microsoft.AspNet.Identity.Core.dll
+C:\Users\folariu\Downloads\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\folariu\Downloads\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\folariu\Downloads\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+C:\Users\folariu\Downloads\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\System.Web.Http.dll
+C:\Users\folariu\Downloads\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\System.Web.Http.Cors.dll
+C:\Users\folariu\Downloads\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\folariu\Downloads\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\Microsoft.AspNetCore.SpaServices.Extensions.dll
+C:\Users\folariu\Downloads\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\folariu\Downloads\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\folariu\Downloads\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\folariu\Downloads\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\folariu\Downloads\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\folariu\Downloads\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\folariu\Downloads\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\folariu\Downloads\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\folariu\Downloads\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\folariu\Downloads\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\folariu\Downloads\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\folariu\Downloads\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\folariu\Downloads\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\folariu\Downloads\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\Microsoft.Owin.dll
+C:\Users\folariu\Downloads\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\Microsoft.Owin.Cors.dll
+C:\Users\folariu\Downloads\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\folariu\Downloads\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\Microsoft.Owin.Security.dll
+C:\Users\folariu\Downloads\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\Microsoft.Owin.Security.Cookies.dll
+C:\Users\folariu\Downloads\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\Microsoft.Owin.Security.OAuth.dll
+C:\Users\folariu\Downloads\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\folariu\Downloads\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\Owin.dll
+C:\Users\folariu\Downloads\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\folariu\Downloads\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\folariu\Downloads\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\folariu\Downloads\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\folariu\Downloads\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\folariu\Downloads\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\folariu\Downloads\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\folariu\Downloads\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\folariu\Downloads\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\folariu\Downloads\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\folariu\Downloads\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\folariu\Downloads\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\folariu\Downloads\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\folariu\Downloads\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\folariu\Downloads\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\folariu\Downloads\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\folariu\Downloads\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\folariu\Downloads\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\folariu\Downloads\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\folariu\Downloads\FindYourFlix-master\FindYourFlix\obj\Debug\net5.0\FindYourFlix.csproj.AssemblyReference.cache
+C:\Users\folariu\Downloads\FindYourFlix-master\FindYourFlix\obj\Debug\net5.0\FindYourFlix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\folariu\Downloads\FindYourFlix-master\FindYourFlix\obj\Debug\net5.0\FindYourFlix.AssemblyInfoInputs.cache
+C:\Users\folariu\Downloads\FindYourFlix-master\FindYourFlix\obj\Debug\net5.0\FindYourFlix.AssemblyInfo.cs
+C:\Users\folariu\Downloads\FindYourFlix-master\FindYourFlix\obj\Debug\net5.0\FindYourFlix.csproj.CoreCompileInputs.cache
+C:\Users\folariu\Downloads\FindYourFlix-master\FindYourFlix\obj\Debug\net5.0\FindYourFlix.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\folariu\Downloads\FindYourFlix-master\FindYourFlix\obj\Debug\net5.0\FindYourFlix.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\folariu\Downloads\FindYourFlix-master\FindYourFlix\obj\Debug\net5.0\scopedcss\bundle\FindYourFlix.styles.css
+C:\Users\folariu\Downloads\FindYourFlix-master\FindYourFlix\obj\Debug\net5.0\staticwebassets\FindYourFlix.StaticWebAssets.Manifest.cache
+C:\Users\folariu\Downloads\FindYourFlix-master\FindYourFlix\obj\Debug\net5.0\FindYourFlix.RazorTargetAssemblyInfo.cache
+C:\Users\folariu\Downloads\FindYourFlix-master\FindYourFlix\obj\Debug\net5.0\FindYourFlix.csproj.CopyComplete
+C:\Users\folariu\Downloads\FindYourFlix-master\FindYourFlix\obj\Debug\net5.0\FindYourFlix.dll
+C:\Users\folariu\Downloads\FindYourFlix-master\FindYourFlix\obj\Debug\net5.0\ref\FindYourFlix.dll
+C:\Users\folariu\Downloads\FindYourFlix-master\FindYourFlix\obj\Debug\net5.0\FindYourFlix.pdb
+C:\Users\folariu\Downloads\FindYourFlix-master\FindYourFlix\obj\Debug\net5.0\FindYourFlix.genruntimeconfig.cache
+F:\DOWNLOADS\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\appsettings.Development.json
+F:\DOWNLOADS\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\appsettings.json
+F:\DOWNLOADS\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\FindYourFlix.StaticWebAssets.xml
+F:\DOWNLOADS\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\FindYourFlix.exe
+F:\DOWNLOADS\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\FindYourFlix.deps.json
+F:\DOWNLOADS\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\FindYourFlix.runtimeconfig.json
+F:\DOWNLOADS\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\FindYourFlix.runtimeconfig.dev.json
+F:\DOWNLOADS\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\FindYourFlix.dll
+F:\DOWNLOADS\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\ref\FindYourFlix.dll
+F:\DOWNLOADS\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\FindYourFlix.pdb
+F:\DOWNLOADS\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\FindYourFlix.Views.dll
+F:\DOWNLOADS\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\BCrypt.Net-Next.dll
+F:\DOWNLOADS\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+F:\DOWNLOADS\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\EntityFramework.dll
+F:\DOWNLOADS\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\Humanizer.dll
+F:\DOWNLOADS\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\System.Web.Cors.dll
+F:\DOWNLOADS\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\Microsoft.AspNet.Identity.Core.dll
+F:\DOWNLOADS\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\DOWNLOADS\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\Microsoft.AspNet.Identity.Owin.dll
+F:\DOWNLOADS\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+F:\DOWNLOADS\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\System.Web.Http.dll
+F:\DOWNLOADS\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\System.Web.Http.Cors.dll
+F:\DOWNLOADS\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\DOWNLOADS\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\Microsoft.AspNetCore.SpaServices.Extensions.dll
+F:\DOWNLOADS\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+F:\DOWNLOADS\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\DOWNLOADS\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\DOWNLOADS\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\DOWNLOADS\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\DOWNLOADS\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\DOWNLOADS\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+F:\DOWNLOADS\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\DOWNLOADS\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\DOWNLOADS\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\DOWNLOADS\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\DOWNLOADS\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\DOWNLOADS\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\Microsoft.OpenApi.dll
+F:\DOWNLOADS\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\Microsoft.Owin.dll
+F:\DOWNLOADS\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\Microsoft.Owin.Cors.dll
+F:\DOWNLOADS\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\Microsoft.Owin.Host.SystemWeb.dll
+F:\DOWNLOADS\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\Microsoft.Owin.Security.dll
+F:\DOWNLOADS\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\Microsoft.Owin.Security.Cookies.dll
+F:\DOWNLOADS\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\Microsoft.Owin.Security.OAuth.dll
+F:\DOWNLOADS\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\DOWNLOADS\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\Owin.dll
+F:\DOWNLOADS\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\DOWNLOADS\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\DOWNLOADS\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\DOWNLOADS\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\DOWNLOADS\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\DOWNLOADS\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\System.Runtime.Caching.dll
+F:\DOWNLOADS\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\DOWNLOADS\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\DOWNLOADS\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\DOWNLOADS\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\DOWNLOADS\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\DOWNLOADS\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\DOWNLOADS\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\DOWNLOADS\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\DOWNLOADS\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\DOWNLOADS\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\DOWNLOADS\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\DOWNLOADS\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\DOWNLOADS\FindYourFlix-master\FindYourFlix\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\DOWNLOADS\FindYourFlix-master\FindYourFlix\obj\Debug\net5.0\FindYourFlix.csproj.AssemblyReference.cache
+F:\DOWNLOADS\FindYourFlix-master\FindYourFlix\obj\Debug\net5.0\FindYourFlix.GeneratedMSBuildEditorConfig.editorconfig
+F:\DOWNLOADS\FindYourFlix-master\FindYourFlix\obj\Debug\net5.0\FindYourFlix.AssemblyInfoInputs.cache
+F:\DOWNLOADS\FindYourFlix-master\FindYourFlix\obj\Debug\net5.0\FindYourFlix.AssemblyInfo.cs
+F:\DOWNLOADS\FindYourFlix-master\FindYourFlix\obj\Debug\net5.0\FindYourFlix.csproj.CoreCompileInputs.cache
+F:\DOWNLOADS\FindYourFlix-master\FindYourFlix\obj\Debug\net5.0\FindYourFlix.MvcApplicationPartsAssemblyInfo.cs
+F:\DOWNLOADS\FindYourFlix-master\FindYourFlix\obj\Debug\net5.0\FindYourFlix.MvcApplicationPartsAssemblyInfo.cache
+F:\DOWNLOADS\FindYourFlix-master\FindYourFlix\obj\Debug\net5.0\scopedcss\bundle\FindYourFlix.styles.css
+F:\DOWNLOADS\FindYourFlix-master\FindYourFlix\obj\Debug\net5.0\staticwebassets\FindYourFlix.StaticWebAssets.Manifest.cache
+F:\DOWNLOADS\FindYourFlix-master\FindYourFlix\obj\Debug\net5.0\FindYourFlix.RazorTargetAssemblyInfo.cache
+F:\DOWNLOADS\FindYourFlix-master\FindYourFlix\obj\Debug\net5.0\FindYourFlix.csproj.CopyComplete
+F:\DOWNLOADS\FindYourFlix-master\FindYourFlix\obj\Debug\net5.0\FindYourFlix.dll
+F:\DOWNLOADS\FindYourFlix-master\FindYourFlix\obj\Debug\net5.0\ref\FindYourFlix.dll
+F:\DOWNLOADS\FindYourFlix-master\FindYourFlix\obj\Debug\net5.0\FindYourFlix.pdb
+F:\DOWNLOADS\FindYourFlix-master\FindYourFlix\obj\Debug\net5.0\FindYourFlix.genruntimeconfig.cache

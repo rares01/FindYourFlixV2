@@ -1,0 +1,32 @@
+﻿.main-search-input {
+  background: #fff;
+  padding: 0 120px 0 0;
+}
+
+.fl-wrap {
+  float: left;
+  width: 100%;
+  position: relative
+}
+
+.main-search-input-item input {
+  border: none;
+  padding-left: 20px
+}
+
+.main-search-button {
+  position: absolute;
+  right: 0;
+  width: 120px;
+  color: #fff;
+  top: 0;
+  border: none;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  cursor: pointer;
+  background: #87c5ff;
+}
+
+:focus {
+  outline: 0
+}

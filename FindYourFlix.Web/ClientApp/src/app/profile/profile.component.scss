@@ -1,0 +1,202 @@
+form {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  padding: 0rem 5rem;
+  transition: all 0.2s 0.7s;
+  overflow: hidden;
+  grid-column: 1 / 2;
+  grid-row: 1 / 2;
+}
+
+form.sign-up-form {
+  opacity: 0;
+  z-index: 1;
+}
+
+form.sign-in-form {
+  z-index: 2;
+}
+
+.title {
+  font-size: 2.2rem;
+  color: #444;
+  margin-bottom: 10px;
+}
+
+
+.btn {
+  width: 200px;
+  background-color: #5995fd;
+  border: none;
+  outline: none;
+  height: 49px;
+  border-radius: .3rem;
+  color: #fff;
+  text-transform: uppercase;
+  font-weight: 600;
+  margin: 10px 0;
+  cursor: pointer;
+  transition: 0.5s;
+}
+
+
+
+.btn:hover {
+  background-color: #4d84e2;
+}
+
+
+.profile-page{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: black;
+}
+
+.wrapper{
+  max-width: 500px;
+  width: 100%;
+  box-shadow: 0 0 5px rgba(0,0,0,.10);
+  margin: auto;
+  margin-top: 20px;
+  background: #d0d2d6;
+  border-radius:  4px;
+  padding: 2rem;
+  max-height: 800px;
+
+}
+
+.wrapper h2{
+  text-align: center;
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.wrapper .inputBox{
+  width: 100%;
+  height: 50px;
+  margin-bottom: 1.3rem;
+  position: relative;
+}
+
+.wrapper .inputBox input{
+  width: 100%;
+  height: 100%;
+  border-radius: 5px;
+  border: none;
+  padding-left: 10px;
+  outline: none;
+  font-family: Avant Garde,Avantgarde,Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+}
+
+.wrapper form{
+  padding: 0;
+}
+
+.btns{
+  display: flex;
+  justify-content: space-between;
+  padding-bottom: 40px;
+}
+
+ol {
+  counter-reset: li; /* Initiate a counter */
+  list-style: none; /* Remove default numbering */
+  *list-style: decimal; /* Keep using default numbering for IE6/7 */
+  font: 15px 'trebuchet MS', 'lucida sans';
+  padding: 0;
+  margin-bottom: 4em;
+  text-shadow: 0 1px 0 rgba(255,255,255,.5);
+}
+
+ol ol {
+  margin: 0 0 0 2em; /* Add some left margin for inner lists */
+}
+
+.rounded-list a{
+  position: relative;
+  display: block;
+  padding: .4em .4em .4em 2em;
+  *padding: .4em;
+  margin-left: 20px;
+  margin-top: 10px;
+  background: rgb(214, 210, 210);
+  color: #444;
+  text-decoration: none;
+  border-radius: .3em;
+  transition: all .3s ease-out;
+}
+
+.rounded-list a:hover{
+  background: #eee;
+}
+
+.rounded-list a:hover:before{
+  transform: rotate(360deg);
+}
+
+.rounded-list a:before{
+  content: counter(li);
+  counter-increment: li;
+  position: absolute;
+  left: -1.3em;
+  top: 50%;
+  margin-top: -1.3em;
+  background: #4d84e2;
+  height: 2em;
+  width: 2em;
+  line-height: 2em;
+  border: .3em solid #fff;
+  text-align: center;
+  font-weight: bold;
+  border-radius: 2em;
+  transition: all .3s ease-out;
+}
+
+perfect-scrollbar {
+  max-height: calc(100vh - 130px) !important;
+  overflow: auto !important;
+}
+
+::ng-deep .change-password {
+  .modal-content {
+    width: 300px;
+    background: #d0d2d6;
+  }
+
+  .modal-body {
+    display: grid;
+
+    input {
+      margin-bottom: 10px;
+      border-radius: 3px;
+      border: none;
+      outline: none;
+    }
+  }
+
+  .modal-footer {
+    width: 100%;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    height: 79px;
+    padding: 0;
+
+    .buttons {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 20px;
+    }
+
+    button {
+      background-color: #5995fd;
+      border: none;
+      border-radius: 3px;
+    }
+  }
+}

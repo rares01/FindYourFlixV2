@@ -1,0 +1,61 @@
+<app-header></app-header>
+<div class="wrapper">
+  <perfect-scrollbar>
+  <h2>Profile info</h2>
+  <form *ngIf="model" [formGroup]="form">
+    <div class="inputBox">
+      <input type="text" formControlName="firstName" placeholder="Last Name" required>
+    </div>
+    <div class="inputBox">
+      <input type="text" formControlName="lastName"  placeholder="First Name" required>
+    </div>
+    <div class="inputBox">
+      <input type="text" formControlName="userName" placeholder="Username" required>
+    </div>
+    <div class="inputBox">
+      <input type="email" formControlName="email" placeholder="Email Address">
+    </div>
+
+    <span class="btns">
+      <div>
+        <button type="submit" name="submit" class="btn"  (click)="submit()">Update Profile</button>
+      </div>
+      <div>
+        <button class="btn" (click)="openChangePassTemplate(changePasswordTemplate)">Change Password</button>
+      </div>
+    </span>
+  </form>
+
+  <div class="liked-wrapper">
+    <h2>Liked movies</h2>
+    <ol class="rounded-list">
+      <li><a href="">Titanic</a></li>
+      <li><a href="">Avatar</a></li>
+      <li><a href="">Starwars</a>
+      <li><a href="">Titanic</a></li>
+      <li><a href="">Avatar</a></li>
+
+    </ol>
+  </div>
+</perfect-scrollbar>
+</div>
+
+
+<ng-template #changePasswordTemplate>
+  <div class="modal-header">
+    <h4 class="title">Change password</h4>
+  </div>
+  <div class="modal-body">
+    <label for="oldPass">Confirm Password</label>
+    <input type="password" id="oldPass" [(ngModel)]="oldPassword">
+    <label for="newPass">New Password</label>
+    <input type="password" id="newPass" [(ngModel)]="newPassword">
+  </div>
+  <div class="modal-footer">
+    <div class="buttons">
+      <button (click)="changePassword()">Save</button>
+      <button (click)="closeTemplate()">Close</button>
+    </div>
+    <span *ngIf="changedPasswordMessage">{{changedPasswordMessage}}</span>
+  </div>
+</ng-template>

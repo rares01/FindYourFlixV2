@@ -1,0 +1,50 @@
+<div class="container">
+  <div class="left-panel">
+    <img src="../../../assets/images/denise-jans-9lTUAlNB87M-unsplash.jpg" alt=""/>
+  </div>
+
+  <div class="right-panel">
+    <div class="item-header">
+      <span class="title">{{movie.name}}</span>
+      <div class="like-section" (click)="likeMovie()">
+        <fa-icon [icon]="likeIcon" [ngClass]="movie.isLiked ? 'liked-movie' : 'unrated-movie'"></fa-icon>
+      </div>
+    </div>
+    <div class="item-body">
+      <span>{{movie.genres[0]}}, {{movie.genres[1]}}, Other</span>
+      <button (click)="openTagsTemplate(tagsTemplate)">TAGS</button>
+    </div>
+  </div>
+</div>
+
+<ng-template #tagsTemplate>
+  <div class="modal-content">
+    <div class="modal-header">
+      <h3>{{movie.name}} tags</h3>
+      <div class="input-wrap">
+        <input id="tag" type="text" placeholder="Add new tag" [(ngModel)]="newInsertedTag"/>
+        <div (click)="insertTag()">
+          <fa-icon [icon]="plusIcon"></fa-icon>
+        </div>
+      </div>
+    </div>
+    <div class="modal-body">
+      <div class="all-tags">
+        <p>All tags</p>
+        <div *ngFor="let tag of movie.tags">{{tag.name}}</div>
+      </div>
+      <div class="user-tags" *ngIf="currentUserTags | async as currentUserTags$">
+        <p>My tags</p>
+        <div class="user-tag" *ngFor="let userTag of currentUserTags$">
+          <div>{{userTag.name}}</div>
+          <span class="tag-delete" (click)="deleteTag(userTag.id)">
+            <fa-icon [icon]="deleteIcon"></fa-icon>
+          </span>
+        </div>
+      </div>
+    </div>
+    <div class="modal-footer">
+      <button (click)="closeTagsTemplate()">Close</button>
+    </div>
+  </div>
+</ng-template>

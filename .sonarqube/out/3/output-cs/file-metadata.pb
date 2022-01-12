@@ -1,0 +1,14 @@
+k
+bC:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix.Web\Controllers\LoginController.csutf-8k
+bC:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix.Web\Controllers\MovieController.csutf-8i
+`C:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix.Web\Controllers\TagController.csutf-8j
+aC:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix.Web\Controllers\UserController.csutf-8b
+YC:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix.Web\Pages\Error.cshtml.csutf-8b
+YC:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix.Web\Pages\Index.cshtml.csutf-8d
+[C:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix.Web\Pages\Privacy.cshtml.csutf-8W
+NC:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix.Web\Program.csutf-8W
+NC:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix.Web\Startup.csutf-8è
+ÉC:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix.Web\obj\Debug\net5.0\.NETCoreApp,Version=v5.0.AssemblyAttributes.csutf-8Ä
+uC:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix.Web\obj\Debug\net5.0\FindYourFlix.Web.AssemblyInfo.csutf-8î
+àC:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix.Web\obj\Debug\net5.0\FindYourFlix.Web.MvcApplicationPartsAssemblyInfo.csutf-8Ö
+zC:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix.Web\obj\Debug\net5.0\FindYourFlix.Web.RazorAssemblyInfo.csutf-8

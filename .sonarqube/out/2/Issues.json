@@ -1,0 +1,488 @@
+{
+  "$schema": "http://json.schemastore.org/sarif-1.0.0",
+  "version": "1.0.0",
+  "runs": [
+    {
+      "tool": {
+        "name": "Microsoft (R) Visual C# Compiler",
+        "version": "4.0.0.0",
+        "fileVersion": "4.0.0-6.21526.21 (c7d6f9fa)",
+        "semanticVersion": "4.0.0",
+        "language": "en-US"
+      },
+      "results": [
+        {
+          "ruleId": "CS0649",
+          "level": "warning",
+          "message": "Field 'JwtMiddleware._next' is never assigned to, and will always have its default value null",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/RaresGeorge/Documents/GitHub/FindYourFlix/FindYourFlix/Business/JwtMiddleware.cs",
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 42,
+                  "endLine": 10,
+                  "endColumn": 47
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 4
+          }
+        },
+        {
+          "ruleId": "S3925",
+          "level": "warning",
+          "message": "Update this implementation of 'ISerializable' to conform to the recommended serialization pattern.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/RaresGeorge/Documents/GitHub/FindYourFlix/FindYourFlix/Exceptions/ObjectNotFoundException.cs",
+                "region": {
+                  "startLine": 5,
+                  "startColumn": 18,
+                  "endLine": 5,
+                  "endColumn": 41
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/RaresGeorge/Documents/GitHub/FindYourFlix/FindYourFlix/Exceptions/ObjectNotFoundException.cs",
+                "region": {
+                  "startLine": 5,
+                  "startColumn": 12,
+                  "endLine": 5,
+                  "endColumn": 17
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/RaresGeorge/Documents/GitHub/FindYourFlix/FindYourFlix/Exceptions/ObjectNotFoundException.cs",
+                "region": {
+                  "startLine": 5,
+                  "startColumn": 12,
+                  "endLine": 5,
+                  "endColumn": 17
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": "Add 'System.SerializableAttribute' attribute on 'ObjectNotFoundException' because it implements 'ISerializable'.",
+              "1": "Add a 'protected' constructor 'ObjectNotFoundException(SerializationInfo, StreamingContext)'."
+            }
+          }
+        },
+        {
+          "ruleId": "S3459",
+          "level": "warning",
+          "message": "Remove unassigned field '_next', or set its value.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/RaresGeorge/Documents/GitHub/FindYourFlix/FindYourFlix/Business/JwtMiddleware.cs",
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 42,
+                  "endLine": 10,
+                  "endColumn": 47
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3881",
+          "level": "warning",
+          "message": "Fix this implementation of 'IDisposable' to conform to the dispose pattern.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/RaresGeorge/Documents/GitHub/FindYourFlix/FindYourFlix/Data/Repository.cs",
+                "region": {
+                  "startLine": 9,
+                  "startColumn": 18,
+                  "endLine": 9,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/RaresGeorge/Documents/GitHub/FindYourFlix/FindYourFlix/Data/Repository.cs",
+                "region": {
+                  "startLine": 9,
+                  "startColumn": 18,
+                  "endLine": 9,
+                  "endColumn": 28
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/RaresGeorge/Documents/GitHub/FindYourFlix/FindYourFlix/Data/Repository.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 21,
+                  "endLine": 18,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": "Provide 'protected' overridable implementation of 'Dispose(bool)' on 'Repository' or mark the type as 'sealed'.",
+              "1": "'Repository.Dispose()' should also call 'Dispose(true)'."
+            }
+          }
+        },
+        {
+          "ruleId": "S1481",
+          "level": "warning",
+          "message": "Remove the unused local variable 'token'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/RaresGeorge/Documents/GitHub/FindYourFlix/FindYourFlix/Business/JwtMiddleware.cs",
+                "region": {
+                  "startLine": 22,
+                  "startColumn": 17,
+                  "endLine": 22,
+                  "endColumn": 22
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1121",
+          "level": "warning",
+          "message": "Extract the assignment of 'salt' from this expression.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/RaresGeorge/Documents/GitHub/FindYourFlix/FindYourFlix/Business/Users/UserInsert.cs",
+                "region": {
+                  "startLine": 37,
+                  "startColumn": 58,
+                  "endLine": 37,
+                  "endColumn": 59
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1121",
+          "level": "warning",
+          "message": "Extract the assignment of 'salt' from this expression.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/RaresGeorge/Documents/GitHub/FindYourFlix/FindYourFlix/Business/Users/UserUpdatePassword.cs",
+                "region": {
+                  "startLine": 53,
+                  "startColumn": 58,
+                  "endLine": 53,
+                  "endColumn": 59
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S4457",
+          "level": "warning",
+          "message": "Split this method into two, one handling parameters check and the other handling the asynchronous code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/RaresGeorge/Documents/GitHub/FindYourFlix/FindYourFlix/Data/Repository.cs",
+                "region": {
+                  "startLine": 66,
+                  "startColumn": 36,
+                  "endLine": 66,
+                  "endColumn": 48
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/RaresGeorge/Documents/GitHub/FindYourFlix/FindYourFlix/Data/Repository.cs",
+                "region": {
+                  "startLine": 70,
+                  "startColumn": 23,
+                  "endLine": 70,
+                  "endColumn": 92
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2053",
+          "level": "warning",
+          "message": "Make this salt unpredictable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/RaresGeorge/Documents/GitHub/FindYourFlix/FindYourFlix/Business/Users/UserUpdatePassword.cs",
+                "region": {
+                  "startLine": 42,
+                  "startColumn": 67,
+                  "endLine": 42,
+                  "endColumn": 71
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2053",
+          "level": "warning",
+          "message": "Make this salt unpredictable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/RaresGeorge/Documents/GitHub/FindYourFlix/FindYourFlix/Business/Users/UserUpdatePassword.cs",
+                "region": {
+                  "startLine": 54,
+                  "startColumn": 59,
+                  "endLine": 54,
+                  "endColumn": 63
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2053",
+          "level": "warning",
+          "message": "Make this salt unpredictable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/RaresGeorge/Documents/GitHub/FindYourFlix/FindYourFlix/Business/Users/UserInsert.cs",
+                "region": {
+                  "startLine": 38,
+                  "startColumn": 59,
+                  "endLine": 38,
+                  "endColumn": 63
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S5122",
+          "level": "warning",
+          "message": "Make sure this permissive CORS policy is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/RaresGeorge/Documents/GitHub/FindYourFlix/FindYourFlix/Startup.cs",
+                "region": {
+                  "startLine": 65,
+                  "startColumn": 21,
+                  "endLine": 65,
+                  "endColumn": 39
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        }
+      ],
+      "rules": {
+        "CS0649": {
+          "id": "CS0649",
+          "shortDescription": "Field is never assigned to, and will always have its default value",
+          "defaultLevel": "warning",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS0649)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        },
+        "S1121": {
+          "id": "S1121",
+          "shortDescription": "Assignments should not be made from within sub-expressions",
+          "fullDescription": "Assignments within sub-expressions are hard to spot and therefore make the code less readable. Ideally, sub-expressions should not have side-effects.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1121",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        },
+        "S1481": {
+          "id": "S1481",
+          "shortDescription": "Unused local variables should be removed",
+          "fullDescription": "If a local variable is declared but not used, it is dead code and should be removed. Doing so will improve maintainability because developers will not wonder what the variable is used for.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1481",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        },
+        "S2053": {
+          "id": "S2053",
+          "shortDescription": "Hashes should include an unpredictable salt",
+          "fullDescription": "In cryptography, a \"salt\" is an extra piece of data which is included when hashing a password. This makes rainbow-table attacks more difficult. Using a cryptographic hash function without an unpredictable salt increases the likelihood that an attacker could successfully find the hash value in databases of precomputed hashes (called rainbow-tables).",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-2053",
+          "properties": {
+            "category": "Critical Vulnerability",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope"
+            ]
+          }
+        },
+        "S3459": {
+          "id": "S3459",
+          "shortDescription": "Unassigned members should be removed",
+          "fullDescription": "Fields and auto-properties that are never assigned to hold the default values for their types. They are either pointless code or, more likely, mistakes.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-3459",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        },
+        "S3881": {
+          "id": "S3881",
+          "shortDescription": "\"IDisposable\" should be implemented correctly",
+          "fullDescription": "The IDisposable interface is a mechanism to release unmanaged resources, if not implemented correctly this could result in resource leaks or more severe bugs.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-3881",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        },
+        "S3925": {
+          "id": "S3925",
+          "shortDescription": "\"ISerializable\" should be implemented correctly",
+          "fullDescription": "The ISerializable interface is the mechanism to control the type serialization process. If not implemented correctly this could result in an invalid serialization and hard to detect bugs.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-3925",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope"
+            ]
+          }
+        },
+        "S4457": {
+          "id": "S4457",
+          "shortDescription": "Parameter validation in \"async\"/\"await\" methods should be wrapped",
+          "fullDescription": "Because of the way async/await methods are rewritten by the compiler, any exceptions thrown during the parameters check will happen only when the task is observed. That could happen far away from the source of the buggy code or never happen for fire-and-forget tasks.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-4457",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        },
+        "S5122": {
+          "id": "S5122",
+          "shortDescription": "Having a permissive Cross-Origin Resource Sharing policy is security-sensitive",
+          "fullDescription": "Having a permissive Cross-Origin Resource Sharing policy is security-sensitive. It has led in the past to the following vulnerabilities:",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-5122",
+          "properties": {
+            "category": "Minor Security Hotspot",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "NotConfigurable"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

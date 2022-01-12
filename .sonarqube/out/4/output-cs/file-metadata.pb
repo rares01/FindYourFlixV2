@@ -1,0 +1,9 @@
+h
+_C:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix.UnitTesting\UT\TagInsertTest.csutf-8s
+jC:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix.UnitTesting\UT\UserControllerInsertTest.csutf-8i
+`C:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix.UnitTesting\UT\UserDeleteTest.csutf-8j
+aC:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix.UnitTesting\UT\UserInsertTests.csutf-8i
+`C:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix.UnitTesting\UT\UserUpdateTest.csutf-8ƒ
+xC:\Users\RaresGeorge\.nuget\packages\microsoft.net.test.sdk\17.0.0\build\netcoreapp2.1\Microsoft.NET.Test.Sdk.Program.csutf-8—
+‹C:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix.UnitTesting\obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.csutf-8‘
+…C:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix.UnitTesting\obj\Debug\net6.0\FindYourFlix.UnitTesting.AssemblyInfo.csutf-8

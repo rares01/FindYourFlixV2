@@ -1,0 +1,205 @@
+.container {
+  display: inline-flex;
+  gap: 15px;
+  width: 300px;
+  height: 130px;
+  border: 1px solid;
+  border-radius: 5px;
+  padding: 15px;
+  margin: 15px;
+  background-color: #d0d2d6;
+  z-index: 0;
+  position: relative;
+
+  .left-panel {
+    display: flex;
+    align-items: center;
+    width: 100px;
+
+    img {
+      vertical-align: middle;
+      height: 100%;
+    }
+  }
+
+  .right-panel {
+    display: inline-grid;
+
+    .item-header {
+      display: inline-flex;
+      gap: 10px;
+      align-items: center;
+
+      .like-section {
+        cursor: pointer;
+
+        .liked-movie {
+          color: #37a2fa;
+        }
+
+        .unrated-movie {
+          color: grey;
+        }
+      }
+
+      .title {
+        text-transform: uppercase;
+        font-size: 25px;
+        font-weight: bold;
+        color: white;
+      }
+    }
+
+    .item-body {
+      span {
+        color: #566573;
+      }
+    }
+  }
+
+  .item-body {
+    display: inline-grid;
+    width: 140px;
+
+    span {
+      color: white;
+      font-size: 12px;
+    }
+
+    button {
+      margin-top: 13px;
+      border: 1px;
+      border-radius: 3px;
+      background: #87c5ff;
+    }
+  }
+}
+
+::ng-deep .tags-template {
+  .modal-content {
+    border: 1px solid !important;
+    border-radius: 5px !important;
+    width: 450px;
+    margin: 2px auto;
+    background: #d0d2d6;
+
+    .modal-header {
+      text-align: center;
+
+      h3 {
+        margin: 0;
+        margin-bottom: 10px;
+      }
+
+      .input-wrap {
+        display: inline-flex;
+        align-items: center;
+        gap: 5px;
+
+        input {
+          outline: 0;
+          border-radius: 3px;
+          border: 1px;
+        }
+
+        div {
+          cursor: pointer;
+
+          fa-icon {
+            color: #3396f2;
+          }
+        }
+      }
+    }
+
+    .modal-body {
+      display: inline-flex;
+      justify-content: space-around;
+      width: 100%;
+
+      .all-tags {
+        display: inline-grid;
+        gap: 3px;
+
+        p {
+          font-size: 15px;
+          font-family: fantasy;
+        }
+
+        div {
+          background-color: #87c5ff;
+          text-align: center;
+          border-radius: 3px;
+          color: white;
+          width: 90px;
+        }
+      }
+
+      .user-tags {
+        display: inline-grid;
+        gap: 3px;
+
+        p {
+          font-size: 15px;
+          font-family: fantasy;
+        }
+
+        .user-tag {
+          display: inline-flex;
+          gap: 5px;
+          align-items: center;
+
+          div {
+            background-color: #87c5ff;
+            text-align: center;
+            border-radius: 3px;
+            color: white;
+            width: 90px;
+          }
+        }
+
+        .tag-delete {
+          cursor: pointer;
+
+          fa-icon {
+            color: red;
+          }
+        }
+
+      }
+    }
+
+    .modal-footer {
+      text-align: center;
+
+      button {
+        border-radius: 3px;
+        border: 1px;
+        background: #566573;
+        color: white;
+        padding: 5px;
+      }
+    }
+  }
+}
+
+::ng-deep {
+  .modal.fade .modal-dialog, .modal.in .modal-dialog {
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+  }
+
+  .modal-content {
+    position: absolute;
+    top:50%;
+    -ms-transform: translate(0,-50%);
+  }
+
+  .modal-backdrop {
+    bottom:0;
+  }
+}
+
