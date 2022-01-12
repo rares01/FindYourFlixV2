@@ -1,7 +1,0 @@
-﻿C:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix.ML\MLModel1.consumption.cs
-C:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix.ML\MLModel1.training.cs
-C:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix.ML\Program.cs
-C:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix.ML\Data\recommendation-ratings-test.csv
-C:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix.ML\Data\recommendation-ratings-train.csv
-C:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix.ML\MLModel1.mbconfig
-C:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix.ML\MLModel1.zip

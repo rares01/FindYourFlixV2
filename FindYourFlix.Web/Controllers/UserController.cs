@@ -41,6 +41,12 @@ namespace FindYourFlix.Controllers
         {
             return await _container.GetService<UserUpdatePassword>().UpdatePassword(model);
         }
+        
+        [HttpPut("update-role")]
+        public async Task UpdateRole([FromBody] UserRoleUpdate.Model model)
+        {
+            await _container.GetService<UserRoleUpdate>().Update(model);
+        }
 
         [HttpPost]
         public async Task Insert(UserInsert.Model model)

@@ -9,8 +9,8 @@ namespace FindYourFlix.Business
     {
         private readonly RequestDelegate _next;
 
-        private readonly HttpContext _context;
-        
+        private HttpContext _context;
+        //private readonly AppSettings _appSettings;
 
         public JwtMiddleware(HttpContext context)
         {
@@ -21,6 +21,9 @@ namespace FindYourFlix.Business
         {
             var token = _context.Request.Headers["Authorization"].FirstOrDefault()?.Split(" ").Last();
 
+            // if (token != null)
+            //     attachUserToContext(context, userService, token);
+            //
             await _next(_context);
         }
     }

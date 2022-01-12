@@ -5,4 +5,5 @@
   userName: string;
   email: string;
   likedMovies: string[];
+  isAdmin: boolean;
 }

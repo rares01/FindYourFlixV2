@@ -80,7 +80,8 @@ namespace FindYourFlix.Controllers
             {
                 Id = e.Id,
                 UserName = e.UserName,
-                Email = e.Email
+                Email = e.Email,
+                IsAdmin = e.IsAdmin
             }).FirstOrDefaultAsync();
         }
 

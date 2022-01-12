@@ -2,6 +2,7 @@
   <div class="tabs">
     <a (click)="navigate(urls.movies())">Movies</a>
     <a (click)="navigate(urls.profile())">Profile</a>
+    <a *ngIf="isAdmin" (click)="navigate(urls.admin())">Admin</a>
   </div>
   <search-bar></search-bar>
   <div class="log-out">

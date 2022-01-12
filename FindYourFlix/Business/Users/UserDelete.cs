@@ -19,7 +19,9 @@ namespace FindYourFlix.Business.Users
 
         public async Task Delete(string id)
         {
-            if (await _repository.GetByIdAsync<User>(id) == null)
+            if (await _repository.Query<User>()
+                .Where(e => e.Id == id)
+                .FirstOrDefaultAsync() == null)
             {
                 throw new ObjectNotFoundException($"User with id {id} does not exist!");
             }

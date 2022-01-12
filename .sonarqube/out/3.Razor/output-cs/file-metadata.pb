@@ -1,9 +1,0 @@
-}
-rC:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix.Web\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.csutf-8}
-rC:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix.Web\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.csutf-8
-tC:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix.Web\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.csutf-8Ü
-{C:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix.Web\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.csutf-8ô
-çC:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix.Web\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.csutf-8Ñ
-yC:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix.Web\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.csutf-8Ç
-wC:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix.Web\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.csutf-8å
-ÄC:\Users\RaresGeorge\Documents\GitHub\FindYourFlix\FindYourFlix.Web\obj\Debug\net5.0\FindYourFlix.Web.RazorTargetAssemblyInfo.csutf-8

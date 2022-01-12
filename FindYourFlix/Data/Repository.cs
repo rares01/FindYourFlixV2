@@ -62,15 +62,5 @@ namespace FindYourFlix.Data
         {
             return await _context.SaveChangesAsync();
         }
-
-        public async Task<TEntity> GetByIdAsync<TEntity>(string id) where TEntity : class
-        {
-            if (id == String.Empty)
-            {
-                throw new ArgumentException($"{nameof(GetByIdAsync)} id must not be empty");
-            }
-
-            return await _context.FindAsync<TEntity>(id);
-        }
     }
 }

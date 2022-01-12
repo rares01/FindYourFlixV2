@@ -15,6 +15,10 @@ export class UsersService {
     return this.http.get(`https://localhost:5001/User`);
   }
 
+  getUsers(): Observable<User[]> {
+    return this.http.get<User[]>('https://localhost:5001/User/list')
+  }
+
   like(movieId: string){
     return this.http.post(`https://localhost:5001/User/${movieId}/like`, movieId);
   }
@@ -29,5 +33,9 @@ export class UsersService {
 
   updatePassword(oldPassword: string, newPassword: string): Observable<boolean> {
      return this.http.put<boolean>(`https://localhost:5001/User/update-password`, {oldPassword, newPassword});
+  }
+
+  updateRole(userId: string) {
+    return this.http.put('https://localhost:5001/User/update-role', {userId: userId});
   }
 }

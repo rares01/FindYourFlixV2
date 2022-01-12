@@ -105,7 +105,7 @@
           "lib/net45/System.Web.Http.Cors.dll": {}
         }
       },
-      "Microsoft.AspNetCore.Authentication.JwtBearer/5.0.13": {
+      "Microsoft.AspNetCore.Authentication.JwtBearer/5.0.0": {
         "type": "package",
         "dependencies": {
           "Microsoft.IdentityModel.Protocols.OpenIdConnect": "6.7.1"
@@ -1765,7 +1765,6 @@
           "Microsoft.AspNet.Identity.EntityFramework": "2.2.3",
           "Microsoft.AspNet.Identity.Owin": "2.2.3",
           "Microsoft.AspNet.WebApi.Cors": "5.0.0",
-          "Microsoft.AspNetCore.Authentication.JwtBearer": "5.0.13",
           "Microsoft.AspNetCore.SpaServices.Extensions": "5.0.0",
           "Microsoft.EntityFrameworkCore": "5.0.0",
           "Microsoft.EntityFrameworkCore.Relational": "5.0.0",
@@ -1998,10 +1997,10 @@
         "microsoft.aspnet.webapi.cors.nuspec"
       ]
     },
-    "Microsoft.AspNetCore.Authentication.JwtBearer/5.0.13": {
-      "sha512": "1A7zBeKjmD/6trvVcvgoYDrTNk3LwmlLwrd6tnSDS6ePyjE1Nbu7NjqC7cisUAzQGMd7xp0aXKIrJ8YW6iHisQ==",
+    "Microsoft.AspNetCore.Authentication.JwtBearer/5.0.0": {
+      "sha512": "26WlfJsOB4QP3VsEVu5GGDSGm5wu6ikQqRUOaZ3BUmyGcMWsD28xFxPxFw4OszYgKpj54QYlyec19KcrEGkqDw==",
       "type": "package",
-      "path": "microsoft.aspnetcore.authentication.jwtbearer/5.0.13",
+      "path": "microsoft.aspnetcore.authentication.jwtbearer/5.0.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -2009,7 +2008,7 @@
         "THIRD-PARTY-NOTICES.TXT",
         "lib/net5.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll",
         "lib/net5.0/Microsoft.AspNetCore.Authentication.JwtBearer.xml",
-        "microsoft.aspnetcore.authentication.jwtbearer.5.0.13.nupkg.sha512",
+        "microsoft.aspnetcore.authentication.jwtbearer.5.0.0.nupkg.sha512",
         "microsoft.aspnetcore.authentication.jwtbearer.nuspec"
       ]
     },
@@ -6313,7 +6312,7 @@
       "Microsoft.AspNet.Identity.EntityFramework >= 2.2.3",
       "Microsoft.AspNet.Identity.Owin >= 2.2.3",
       "Microsoft.AspNet.WebApi.Cors >= 5.0.0",
-      "Microsoft.AspNetCore.Authentication.JwtBearer >= 5.0.13",
+      "Microsoft.AspNetCore.Authentication.JwtBearer >= 5.0.0",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 5.0.0",
       "Microsoft.AspNetCore.SpaServices.Extensions >= 5.0.0",
       "Microsoft.Owin.Cors >= 4.2.0",
@@ -6321,24 +6320,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\RaresGeorge\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\user\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\RaresGeorge\\Documents\\GitHub\\FindYourFlix\\FindYourFlix.Web\\FindYourFlix.Web.csproj",
+      "projectUniqueName": "D:\\Facultate - An 3\\FindYourFlix (5)\\FindYourFlix\\FindYourFlix.Web\\FindYourFlix.Web.csproj",
       "projectName": "FindYourFlix.Web",
-      "projectPath": "C:\\Users\\RaresGeorge\\Documents\\GitHub\\FindYourFlix\\FindYourFlix.Web\\FindYourFlix.Web.csproj",
-      "packagesPath": "C:\\Users\\RaresGeorge\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\RaresGeorge\\Documents\\GitHub\\FindYourFlix\\FindYourFlix.Web\\obj\\",
+      "projectPath": "D:\\Facultate - An 3\\FindYourFlix (5)\\FindYourFlix\\FindYourFlix.Web\\FindYourFlix.Web.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "D:\\Facultate - An 3\\FindYourFlix (5)\\FindYourFlix\\FindYourFlix.Web\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\RaresGeorge\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6352,8 +6346,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\RaresGeorge\\Documents\\GitHub\\FindYourFlix\\FindYourFlix\\FindYourFlix.csproj": {
-              "projectPath": "C:\\Users\\RaresGeorge\\Documents\\GitHub\\FindYourFlix\\FindYourFlix\\FindYourFlix.csproj"
+            "D:\\Facultate - An 3\\FindYourFlix (5)\\FindYourFlix\\FindYourFlix\\FindYourFlix.csproj": {
+              "projectPath": "D:\\Facultate - An 3\\FindYourFlix (5)\\FindYourFlix\\FindYourFlix\\FindYourFlix.csproj"
             }
           }
         }
@@ -6394,7 +6388,7 @@
           },
           "Microsoft.AspNetCore.Authentication.JwtBearer": {
             "target": "Package",
-            "version": "[5.0.13, )"
+            "version": "[5.0.0, )"
           },
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
             "target": "Package",
@@ -6431,7 +6425,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   },

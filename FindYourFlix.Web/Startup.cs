@@ -43,11 +43,13 @@ namespace FindYourFlix.Web
             services.AddTransient<UserSelect>();
             services.AddTransient<UserUpdate>();
             services.AddTransient<UserUpdatePassword>();
+            services.AddTransient<UserRoleUpdate>();
             services.AddTransient<TagInsert>();
             services.AddTransient<TagDelete>();
             services.AddTransient<TagList>();
             services.AddTransient<MovieList>();
             services.AddTransient<MovieSelect>();
+            services.AddTransient<MovieInsert>();
             services.AddScoped<IRepository, Repository>();
             services.AddScoped<IUserInfo, UserInfo>();
             services.TryAddSingleton<IHttpContextAccessor, HttpContextAccessor>();
@@ -84,7 +86,9 @@ namespace FindYourFlix.Web
                    };
                });
            
-           
+           // services.AddMvc(options => options.EnableEndpointRouting = false).SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
+
+           // In production, the Angular files will be served from this directory
            services.AddSpaStaticFiles(configuration =>
            {
                configuration.RootPath = "ClientApp/dist";
@@ -122,6 +126,22 @@ namespace FindYourFlix.Web
             app.UseEndpoints(endpoints => { endpoints.MapRazorPages(); });
             app.UseAuthentication();
             
+            // app.UseMvc(routes =>
+            // {
+            //     routes.MapRoute(
+            //         name: "default",
+            //         template: "{controller}/{action=Index}/{id?}");
+            // });
+
+            // app.UseSpa(spa =>
+            // {
+            //     spa.Options.SourcePath = "ClientApp";
+            //
+            //     if (env.IsDevelopment())
+            //     {
+            //         spa.UseAngularCliServer(npmScript: "start");
+            //     }
+            // });
         }
     }
 }

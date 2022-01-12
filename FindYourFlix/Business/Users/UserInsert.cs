@@ -17,9 +17,11 @@ namespace FindYourFlix.Business.Users
 
         public async Task Insert(Model model)
         {
+            var guid = Guid.NewGuid();
             await _repository.InsertAsync(new User
             {
-                Id = Guid.NewGuid().ToString(),
+                Id = guid.ToString(),
+                Index = BitConverter.ToInt32(guid.ToByteArray(), 0),
                 FirstName = model.FirstName,
                 LastName = model.LastName,
                 UserName = model.UserName,

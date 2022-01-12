@@ -26,6 +26,7 @@ import {AuthorizationCheck} from "./services/authorizationCheck";
 import {httpInterceptor} from "./services/httpInterceptor";
 import {ErrorInterceptor} from "./services/errorInterceptor";
 import {PerfectScrollbarModule} from "ngx-perfect-scrollbar";
+import {AdminComponent} from "./admin/admin.component";
 
 @NgModule({
   declarations: [
@@ -36,7 +37,8 @@ import {PerfectScrollbarModule} from "ngx-perfect-scrollbar";
     SearchBarComponent,
     RegisterComponent,
     ProfileComponent,
-    LoginComponent
+    LoginComponent,
+    AdminComponent
   ],
   imports: [
     CommonModule,
@@ -48,6 +50,7 @@ import {PerfectScrollbarModule} from "ngx-perfect-scrollbar";
       {path: 'movies', component: MoviesListComponent, canActivate: [AuthorizationCheck]},
       {path: 'register', component: RegisterComponent},
       {path: 'login', component: LoginComponent},
+      {path: 'admin', component: AdminComponent, canActivate: [AuthorizationCheck]},
     ]),
     FormsModule,
     FontAwesomeModule,

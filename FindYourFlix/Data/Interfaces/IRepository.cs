@@ -11,7 +11,6 @@ namespace FindYourFlix.Data.Interfaces
         Task InsertAsync<TEntity>(TEntity entity) where TEntity : class;
         void Delete<TEntity>(object id) where TEntity : class;
         void Update<TEntity>(TEntity entity) where TEntity : class;
-        Task<TEntity> GetByIdAsync<TEntity> (string id) where TEntity : class;
         Task<int> SaveAsync();
     }
 }

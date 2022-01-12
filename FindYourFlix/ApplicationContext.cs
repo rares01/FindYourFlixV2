@@ -44,13 +44,14 @@ namespace FindYourFlix
             users.Property(e => e.InsertedDate).HasDefaultValueSql("getutcdate()");
             users.Property(e => e.Password);
             users.Property(e => e.Index);
+            users.Property(e => e.IsAdmin).HasDefaultValue(false);
             
             var movies = modelBuilder.Entity<Movie>();
             movies.ToTable("Movies");
             movies.HasIndex(e => e.Id);
             movies.Property(e => e.Id).HasMaxLength(36);
             movies.Property(e => e.Name).HasMaxLength(100);
-            movies.Property(e=> e.Index);
+            movies.Property(e => e.Index);
 
             var genres = modelBuilder.Entity<Genre>();
             genres.ToTable("Genres");

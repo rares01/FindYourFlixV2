@@ -1,0 +1,46 @@
+﻿<app-header></app-header>
+<div class="header-container">
+  <div class="wrapper">
+    <form [formGroup]="form">
+      <div class="inputBox">
+        <input type="text" formControlName="name" placeholder="Name" required>
+      </div>
+      <div class="inputBox">
+        <input type="text" formControlName="firstGenre"  placeholder="Add genre" required>
+      </div>
+      <div class="inputBox">
+        <input type="text" formControlName="secondGenre" placeholder="Add genre" required>
+      </div>
+      <div class="inputBox">
+        <input type="email" formControlName="thirdGenre" placeholder="Add genre">
+      </div>
+
+      <span class="btns">
+      <div>
+        <button type="submit" name="submit" class="btn"  (click)="submit()">Add movie</button>
+      </div>
+    </span>
+    </form>
+  </div>
+
+  <div class="users">
+    <table class="wrapper">
+      <thead>
+        <th>First name</th>
+        <th>Last name</th>
+        <th>Give/Remove admin role</th>
+      </thead>
+      <tbody>
+        <tr *ngFor="let user of users">
+          <td>{{user.firstName}}</td>
+          <td>{{user.lastName}}</td>
+          <td>
+            <button *ngIf="user.isAdmin" (click)="onRoleAction(user)">Remove role</button>
+            <button *ngIf="!user.isAdmin" (click)="onRoleAction(user)">Add role</button>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+

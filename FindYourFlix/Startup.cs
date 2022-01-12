@@ -1,28 +1,18 @@
-using System;
-using System.Text;
-using FindYourFlix.Business;
 using FindYourFlix.Business.Movies;
 using FindYourFlix.Business.Tags;
 using FindYourFlix.Business.Users;
 using FindYourFlix.Data;
 using FindYourFlix.Data.Interfaces;
-using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.AspNet.Identity;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.SpaServices.AngularCli;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.DependencyInjection.Extensions;
 using Microsoft.Extensions.Hosting;
-using Microsoft.IdentityModel.Tokens;
-using Microsoft.Owin;
-using Microsoft.Owin.Cors;
-using Microsoft.Owin.Security.OAuth;
-using Owin;
 
-namespace FindYourFlix.Web
+namespace FindYourFlix
 {
     public class Startup
     {
@@ -30,9 +20,10 @@ namespace FindYourFlix.Web
         {
             Configuration = configuration;
         }
-
+        
         public IConfiguration Configuration { get; }
 
+        // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddTransient<UserInsert>();
@@ -41,7 +32,6 @@ namespace FindYourFlix.Web
             services.AddTransient<UserLikeAction>();
             services.AddTransient<UserSelect>();
             services.AddTransient<UserUpdate>();
-            services.AddTransient<UserUpdatePassword>();
             services.AddTransient<TagInsert>();
             services.AddTransient<TagDelete>();
             services.AddTransient<TagList>();
@@ -57,39 +47,11 @@ namespace FindYourFlix.Web
             {
                 options.CustomSchemaIds(x => x.FullName);
             });
-            services.AddDbContext<ApplicationContext>();
-            services.AddCors(options =>
-            {
-                options.AddPolicy("AllowAll", p =>
-                {
-                    p.AllowAnyOrigin()
-                        .AllowAnyHeader()
-                        .AllowAnyMethod();
-                });
-            });
-
-            services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
-                .AddJwtBearer(options =>
-                {
-                    options.TokenValidationParameters = new TokenValidationParameters
-                    {
-                        ValidateIssuer = true,
-                        ValidateAudience = true,
-                        ValidateLifetime = true,
-                        ValidateIssuerSigningKey = true,
-                        ValidIssuer = Configuration["Jwt:Issuer"],
-                        ValidAudience = Configuration["Jwt:Issuer"],
-                        IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(Configuration["Jwt:Key"]))
-                    };
-                });
-
-            services.AddSpaStaticFiles(configuration =>
-            {
-                configuration.RootPath = "ClientApp/dist";
-            });
-            services.AddMvc();
+           services.AddDbContext<ApplicationContext>();
+          
         }
 
+        // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
             if (env.IsDevelopment())
@@ -99,6 +61,7 @@ namespace FindYourFlix.Web
             else
             {
                 app.UseExceptionHandler("/Error");
+                // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
                 app.UseHsts();
             }
 
@@ -109,17 +72,14 @@ namespace FindYourFlix.Web
 
             app.UseAuthorization();
 
+            app.UseEndpoints(endpoints => { endpoints.MapRazorPages(); });
+
             app.UseSwagger();
             app.UseSwaggerUI();
-            app.UseCors("AllowAll");
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllers();
             });
-
-            app.UseEndpoints(endpoints => { endpoints.MapRazorPages(); });
-            app.UseAuthentication();
-
         }
     }
 }

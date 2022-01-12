@@ -19,7 +19,7 @@
       <PackageReference Include="Microsoft.AspNet.Identity.EntityFramework" Version="2.2.3" />
       <PackageReference Include="Microsoft.AspNet.Identity.Owin" Version="2.2.3" />
       <PackageReference Include="Microsoft.AspNet.WebApi.Cors" Version="5.0.0" />
-      <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="5.0.13" />
+      <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="5.0.0" />
       <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="5.0.0" />
       <PackageReference Include="Microsoft.AspNetCore.SpaServices.Extensions" Version="5.0.0" />
       <PackageReference Include="Microsoft.Owin.Cors" Version="4.2.0" />

@@ -1,19 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.0.31919.166
-MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindYourFlix", "FindYourFlix\FindYourFlix.csproj", "{3BF732C3-05E0-49B6-B383-07B5363DC46E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindYourFlix", "FindYourFlix\FindYourFlix.csproj", "{3BF732C3-05E0-49B6-B383-07B5363DC46E}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindYourFlix.Web", "FindYourFlix.Web\FindYourFlix.Web.csproj", "{9153D6B7-7F1A-41A7-86D4-265C0E906BF4}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindYourFlix.UnitTesting", "FindYourFlix.UnitTesting\FindYourFlix.UnitTesting.csproj", "{773B17E8-6620-4642-BBA8-A1FCA82A7C3A}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ML", "ML", "{272EF22C-2960-4C6F-82B6-E1201252AD22}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindYourFlix.ML", "FindYourFlix.ML\FindYourFlix.ML.csproj", "{B8381897-FF10-4427-91A6-17D844AB0CD7}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindYourFlix.ML.Api", "FindYourFlix.ML.Api\FindYourFlix.ML.Api.csproj", "{4A2DFB91-F7F6-4E36-84D8-16419FD0040B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindYourFlix.Web", "FindYourFlix.Web\FindYourFlix.Web.csproj", "{9153D6B7-7F1A-41A7-86D4-265C0E906BF4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,27 +18,5 @@ Global
 		{9153D6B7-7F1A-41A7-86D4-265C0E906BF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9153D6B7-7F1A-41A7-86D4-265C0E906BF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9153D6B7-7F1A-41A7-86D4-265C0E906BF4}.Release|Any CPU.Build.0 = Release|Any CPU
-		{773B17E8-6620-4642-BBA8-A1FCA82A7C3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{773B17E8-6620-4642-BBA8-A1FCA82A7C3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{773B17E8-6620-4642-BBA8-A1FCA82A7C3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{773B17E8-6620-4642-BBA8-A1FCA82A7C3A}.Release|Any CPU.Build.0 = Release|Any CPU
-		{B8381897-FF10-4427-91A6-17D844AB0CD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B8381897-FF10-4427-91A6-17D844AB0CD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B8381897-FF10-4427-91A6-17D844AB0CD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B8381897-FF10-4427-91A6-17D844AB0CD7}.Release|Any CPU.Build.0 = Release|Any CPU
-		{4A2DFB91-F7F6-4E36-84D8-16419FD0040B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4A2DFB91-F7F6-4E36-84D8-16419FD0040B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4A2DFB91-F7F6-4E36-84D8-16419FD0040B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4A2DFB91-F7F6-4E36-84D8-16419FD0040B}.Release|Any CPU.Build.0 = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(NestedProjects) = preSolution
-		{B8381897-FF10-4427-91A6-17D844AB0CD7} = {272EF22C-2960-4C6F-82B6-E1201252AD22}
-		{4A2DFB91-F7F6-4E36-84D8-16419FD0040B} = {272EF22C-2960-4C6F-82B6-E1201252AD22}
-	EndGlobalSection
-	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {5D503388-F949-46A6-93C3-94960C0C69FA}
 	EndGlobalSection
 EndGlobal

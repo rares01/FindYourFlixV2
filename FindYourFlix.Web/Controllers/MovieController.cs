@@ -31,5 +31,11 @@ namespace FindYourFlix.Controllers
         {
             return await _container.GetService<MovieList>().Select();
         }
+
+        [HttpPost]
+        public async Task Insert(MovieInsert.Model model)
+        {
+            await _container.GetService<MovieInsert>().Insert(model);
+        }
     }
 }

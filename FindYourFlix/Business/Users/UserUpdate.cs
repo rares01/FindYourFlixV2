@@ -24,12 +24,15 @@ namespace FindYourFlix.Business.Users
         public async Task Update(Model model)
         {
             var id = await _userInfo.GetUserId();
-            if (await _repository.GetByIdAsync<User>(id) == null)
+            if (!await _repository.Query<User>()
+                .Where(e => e.Id == id)
+                .AnyAsync())
             {
                 throw new ObjectNotFoundException($"User with id {id} does not exist!");
             }
 
-            var user = await _repository.GetByIdAsync<User>(id);
+            var user = await _repository.Query<User>()
+                .Where(e => e.Id == id).FirstOrDefaultAsync();
 
             user.FirstName = model.FirstName;
             user.LastName = model.LastName;

@@ -30,7 +30,8 @@ namespace FindYourFlix.Business.Users
                     LastName = e.LastName,
                     UserName = e.UserName,
                     Email = e.Email,
-                    LikedMovies = e.LikedMovies.Select(m => m.Movie.Name).ToList()
+                    LikedMovies = e.LikedMovies.Select(m => m.Movie.Name).ToList(),
+                    IsAdmin = e.IsAdmin
                 })
                 .FirstOrDefaultAsync();
             return user;
@@ -43,6 +44,7 @@ namespace FindYourFlix.Business.Users
             public string LastName { get; set; }
             public string UserName { get; set; }
             public string Email { get; set; }
+            public bool IsAdmin { get; set; }
             public List<string> LikedMovies { get; set; }
         }
         
